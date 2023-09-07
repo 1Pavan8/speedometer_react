@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.main {
+  background-color: #07080c;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 40px;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.img {
+  width: 600px;
+  height: 400px;
+}
+
+.subcont {
+  display: flex;
+  justify-content: center;
+}
+
+.acc {
+  background-color: #0b69ff;
+  border-radius: 5px;
+  padding: 3px;
+  color: #ffffff;
+  outline: none;
+  cursor: pointer;
+  margin-right: 15px;
+}
+.par {
+  color: white;
+}
+.brake {
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 3px;
+  color: white;
+  background-color: transparent;
+  border-width: 2px;
+  border-color: #ffffff;
+}
